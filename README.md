@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Ansh Kumar Sharma, a Software Developer based in India.
+
+I mostly work on Full Stack Web Development using - React, Vite, TailwindCSS and more.
+
 <!--
 **AnshKumar-14/AnshKumar-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
