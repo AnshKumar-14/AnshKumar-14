@@ -8,8 +8,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://anshkumar14.vercel.app/](https://anshkumar14.vercel.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1NmnQREXqMSggw0XCDxEnWPu4OgI-j5YR/view?usp=drivesdk](https://drive.google.com/file/d/1NmnQREXqMSggw0XCDxEnWPu4OgI-j5YR/view?usp=drivesdk)**
-
+<!-- - 📄 Know about my experiences **[https://drive.google.com/file/d/1NmnQREXqMSggw0XCDxEnWPu4OgI-j5YR/view?usp=drivesdk](https://drive.google.com/file/d/1NmnQREXqMSggw0XCDxEnWPu4OgI-j5YR/view?usp=drivesdk)** -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/AnshKumar-14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AnshKumar-14" height="30" width="40" /></a>
